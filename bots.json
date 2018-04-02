@@ -1,0 +1,65 @@
+{
+    "windbots": [
+		{
+			"name": "Blue-Eyes",
+			"deck": "Blue-Eyes",
+			"dialog": "default"
+		},
+		{
+			"name": "Burn",
+			"deck": "Burn",
+			"dialog": "default"
+		},
+
+		{
+			"name": "Dragunity",
+			"deck": "Dragunity",
+			"dialog": "default"
+		},
+		{
+			"name": "Frog",
+			"deck": "Frog",
+			"dialog": "default"
+		},
+		{
+			"name": "Qliphort",
+			"deck": "Qliphort",
+			"dialog": "default"
+		},
+		{
+			"name": "Rainbow",
+			"deck": "Rainbow",
+			"dialog": "default"
+		},
+		{
+			"name": "Rank5",
+			"deck": "Rank V",
+			"dialog": "default"
+		},
+		{
+			"name": "ST1732",
+			"deck": "ST1732",
+			"dialog": "default"
+		},
+		{
+			"name": "ToadallyAwesome",
+			"deck": "Toadally Awesome",
+			"dialog": "default"
+		},
+		{
+			"name": "Yosenju",
+			"deck": "Yosenju",
+			"dialog": "default"
+		},
+		{
+			"name": "ZexalWeapons",
+			"deck": "Zexal Weapons",
+			"dialog": "default"
+		},
+		{
+			"name": "Zoodiac",
+			"deck": "Zoodiac",
+			"dialog": "default"
+		}
+    ]
+}
